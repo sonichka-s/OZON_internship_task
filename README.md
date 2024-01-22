@@ -1,1 +1,1 @@
-# OZON_internship_task
+# Тестовое задание ozon
